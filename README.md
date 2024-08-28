@@ -1,6 +1,6 @@
 # Kin-verification
 A Deep Learning pipeline for the task of kin verification.
-Kin verification is the task of determining whether two individuals are genetically related. This project employs a gait recognition pipeline and a facial feature extraction module to solve this problem.
+Kin verification is the task of determining whether two individuals are genetically related. This project fuses gait and facial features to solve this problem.
  ---
  # Model
 - [Results for Gait Verification](https://drive.google.com/drive/folders/1cHa3OmoOBRcxdnRCYandzwqqjZfFEGPm?usp=sharing)
