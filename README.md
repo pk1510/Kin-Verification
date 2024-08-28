@@ -9,7 +9,7 @@ Kin verification is the task of determining whether two individuals are genetica
 # Dataset
 Samples from our Gait and Face dataset.
 - [Gait](https://drive.google.com/drive/folders/1LbI-SzYGmDEo4qw0SdjMjBmpKJm-fHXR?usp=sharing)
-- [Code to convert the gait video into silhoutte](https://drive.google.com/file/d/1ysH0t9gPvqeR6HEBwPMSCTW3aO-w2WEh/view?usp=sharing)
+- [Code to convert the gait video into silhoutte](https://drive.google.com/file/d/1ysH0t9gPvqeR6HEBwPMSCTW3aO-w2WEh/view?usp=sharing) - [Colab](https://colab.research.google.com/drive/1xuXepHBTx1ieFQyopwyq3Dv42FsDjg41?usp=sharing)
 - [Facial Images](https://drive.google.com/drive/folders/1bsM0DYzFmxKbd1CJEyUrgQE9jD7jWg8b?usp=sharing)
 ---
 # Progress
